@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 재생성 가능한 데이터/산출물 (python main.py scrape / train 으로 다시 생성)
+data/raw/
+data/processed/
+models/
+output/
+logs/
+
+# 비밀값 (ODDS_API_KEY 등)
+.env
+*.key
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,24 @@
+date,sport,league,home,away,market,line,selection,odds
+2026-10-17,soccer,E0,Arsenal,Chelsea,WDL,,H,1.85
+2026-10-17,soccer,E0,Arsenal,Chelsea,WDL,,D,3.40
+2026-10-17,soccer,E0,Arsenal,Chelsea,WDL,,A,3.70
+2026-10-17,soccer,E0,Arsenal,Chelsea,OU,2.5,O,1.90
+2026-10-17,soccer,E0,Arsenal,Chelsea,OU,2.5,U,1.75
+2026-10-17,soccer,E0,Liverpool,Tottenham,WDL,,H,1.55
+2026-10-17,soccer,E0,Liverpool,Tottenham,WDL,,D,4.00
+2026-10-17,soccer,E0,Liverpool,Tottenham,WDL,,A,4.80
+2026-10-17,soccer,E0,Liverpool,Tottenham,HANDICAP,-1.0,H,2.60
+2026-10-17,soccer,E0,Liverpool,Tottenham,HANDICAP,-1.0,D,3.50
+2026-10-17,soccer,E0,Liverpool,Tottenham,HANDICAP,-1.0,A,2.20
+2026-10-18,soccer,E0,Man City,Newcastle,WDL,,H,1.45
+2026-10-18,soccer,E0,Man City,Newcastle,WDL,,D,4.30
+2026-10-18,soccer,E0,Man City,Newcastle,WDL,,A,5.60
+2026-10-18,soccer,SP1,Real Madrid,Sevilla,WDL,,H,1.40
+2026-10-18,soccer,SP1,Real Madrid,Sevilla,WDL,,D,4.50
+2026-10-18,soccer,SP1,Real Madrid,Sevilla,WDL,,A,6.20
+2026-10-18,soccer,D1,Bayern Munich,Dortmund,WDL,,H,1.60
+2026-10-18,soccer,D1,Bayern Munich,Dortmund,WDL,,D,4.10
+2026-10-18,soccer,D1,Bayern Munich,Dortmund,WDL,,A,4.30
+2026-10-19,soccer,I1,Inter,Juventus,WDL,,H,2.10
+2026-10-19,soccer,I1,Inter,Juventus,WDL,,D,3.10
+2026-10-19,soccer,I1,Inter,Juventus,WDL,,A,3.30

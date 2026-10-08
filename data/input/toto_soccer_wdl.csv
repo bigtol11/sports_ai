@@ -1,0 +1,15 @@
+game,date,league,home,away,pub_1,pub_2,pub_3
+1,2026-10-17,E0,Arsenal,Chelsea,55,25,20
+2,2026-10-17,E0,Liverpool,Tottenham,68,18,14
+3,2026-10-18,E0,Man City,Newcastle,72,17,11
+4,2026-10-18,E0,Aston Villa,Brighton,45,28,27
+5,2026-10-18,E0,West Ham,Everton,40,32,28
+6,2026-10-18,E0,Fulham,Brentford,38,32,30
+7,2026-10-18,E0,Crystal Palace,Wolves,44,30,26
+8,2026-10-18,SP1,Real Madrid,Sevilla,78,14,8
+9,2026-10-18,SP1,Barcelona,Ath Madrid,55,25,20
+10,2026-10-18,D1,Bayern Munich,Dortmund,65,18,17
+11,2026-10-19,D1,Leverkusen,RB Leipzig,50,26,24
+12,2026-10-19,I1,Inter,Juventus,45,32,23
+13,2026-10-19,I1,Milan,Napoli,40,30,30
+14,2026-10-19,I1,Roma,Lazio,40,32,28
